@@ -1,0 +1,9 @@
+apiDir: "../AddUserRestBuilder-api/src/main/java"
+apiPackagePath: "AddUserRestBuilder"
+application:
+    baseURI: "/AddUserRestBuilder"
+    className: "AddUserRestBuilderApplication"
+    name: "AddUserRestBuilder"
+author: "Jay"
+clientDir: "../AddUserRestBuilder-client/src/main/java"
+testDir: "../AddUserRestBuilder-test/src/testIntegration/java"

@@ -1,0 +1,22 @@
+AddUserRestBuilder/internal/resource/v1_0/BaseUserResourceImpl.java
+ AddUserRestBuilder.internal.resource.v1_0.BaseUserResourceImpl
+AddUserRestBuilder/internal/jaxrs/application/AddUserRestBuilderApplication.java
+ AddUserRestBuilder.internal.jaxrs.application.AddUserRestBuilderApplication
+AddUserRestBuilder/internal/security/permission/LiberalPermissionChecker.java
+ AddUserRestBuilder.internal.security.permission.LiberalPermissionChecker
+AddUserRestBuilder/internal/graphql/servlet/v1_0/ServletDataImpl.java
+ AddUserRestBuilder.internal.graphql.servlet.v1_0.ServletDataImpl
+ AddUserRestBuilder.internal.graphql.servlet.v1_0.ServletDataImpl$1
+AddUserRestBuilder/internal/graphql/mutation/v1_0/Mutation.java
+ AddUserRestBuilder.internal.graphql.mutation.v1_0.Mutation
+AddUserRestBuilder/internal/graphql/query/v1_0/Query.java
+ AddUserRestBuilder.internal.graphql.query.v1_0.Query
+AddUserRestBuilder/internal/resource/v1_0/factory/UserResourceFactoryImpl.java
+ AddUserRestBuilder.internal.resource.v1_0.factory.UserResourceFactoryImpl
+ AddUserRestBuilder.internal.resource.v1_0.factory.UserResourceFactoryImpl$1
+ AddUserRestBuilder.internal.resource.v1_0.factory.UserResourceFactoryImpl$AcceptLanguageImpl
+AddUserRestBuilder/internal/resource/v1_0/OpenAPIResourceImpl.java
+ AddUserRestBuilder.internal.resource.v1_0.OpenAPIResourceImpl
+ AddUserRestBuilder.internal.resource.v1_0.OpenAPIResourceImpl$1
+AddUserRestBuilder/internal/resource/v1_0/UserResourceImpl.java
+ AddUserRestBuilder.internal.resource.v1_0.UserResourceImpl
